@@ -1,7 +1,3 @@
-# 这是本地源列表，一行一个源，格式为：频道名称,接口地址
-# 支持设置白名单：接口后添加$!
-# The local source list, one line per source, format: channel name, interface address
-# Support setting whitelist: add $! after the interface
 📺央视频道,#genre#
 CCTV-1,http://61.184.46.85:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://61.184.46.85:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -90,4 +86,5 @@ KAKU少儿,http://60.16.0.216:5757/hls/52/index.m3u8
 🎮游戏频道,#genre#
 游戏风云,http://60.16.0.216:5757/hls/44/index.m3u8
 乐游,http://60.16.0.216:5757/hls/45/index.m3u8
+
 天元围棋,http://60.16.0.216:5757/hls/48/index.m3u8
