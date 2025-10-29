@@ -1,11 +1,8 @@
 🕘️更新时间,#genre#
-2025-10-29 18:46:55,http://sh.lnott.top:880/dx07.m3u8
+2025-10-30 06:44:06,http://zqh2333.top:2222/rtp/239.93.55.54:5140
 
 📺央视频道,#genre#
-CCTV-7,http://sh.lnott.top:880/dx07.m3u8
-CCTV-15,http://sh.lnott.top:880/dx15.m3u8
 CCTV-16,http://zqh2333.top:2222/rtp/239.93.55.54:5140
-CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
@@ -13,15 +10,8 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://sh.lnott.top:880/dx29.m3u8
 黑龙江卫视,http://113.106.171.234:8899/rtp/239.20.0.91:3036
-海南卫视,http://sh.lnott.top:880/dx58.m3u8
-河北卫视,http://sh.lnott.top:880/dx63.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-宁夏卫视,http://sh.lnott.top:880/dx53.m3u8
-山东卫视,http://sh.lnott.top:880/dx38.m3u8
-四川卫视,http://sh.lnott.top:880/dx45.m3u8
-西藏卫视,http://sh.lnott.top:880/dx57.m3u8
 
 ☘️湖北频道,#genre#
 武汉文体,http://59.173.120.39:4022/rtp/239.69.1.147:10518
@@ -32,7 +22,6 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 翡翠台,http://51.89.166.17:3002/index.php?id=jade_twn
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
-凤凰中文,http://27.41.245.32:801/hls/205/index.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文,http://zqh2333.top:2222/rtp/239.93.24.9:2192
 凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
@@ -86,6 +75,8 @@ IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
 新动漫,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
+金鹰卡通,http://101.66.199.134:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通,http://101.66.199.146:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
